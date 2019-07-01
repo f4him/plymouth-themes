@@ -6,7 +6,7 @@ Installation Instructions:
 3.Navigate to the extracted folder & copy the "Hitman" folder to /lib/plymouth/themes/ & paste the "Hitman" folder there.
 4.Type the following commands in the terminal to install the theme
 
- sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/Hitman/hitman.plymouth 100
+ sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/Hitman/hitman.plymouth 100
 
 This will install the theme, to select it as the default theme type
 
