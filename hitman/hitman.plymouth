@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Hitman
+Description=Hitman Plymouth Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hitman
+ScriptFile=/usr/share/plymouth/themes/hitman/hitman.script
